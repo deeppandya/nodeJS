@@ -337,7 +337,6 @@ app.post('/addDriver', function (req, res) {
 */
 
 
-/*author:meet*/
 app.post('/addNewDriver', function (req, res) {
 	
 	var myCollection="driver";
